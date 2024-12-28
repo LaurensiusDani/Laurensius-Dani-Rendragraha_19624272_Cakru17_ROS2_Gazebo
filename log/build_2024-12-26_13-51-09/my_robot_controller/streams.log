@@ -1,0 +1,19 @@
+[1.717s] Invoking command in '/home/danivm/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/danivm/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/danivm/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force
+[2.445s] running develop
+[2.843s] running egg_info
+[2.843s] writing my_robot_controller.egg-info/PKG-INFO
+[2.845s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[2.847s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[2.847s] writing requirements to my_robot_controller.egg-info/requires.txt
+[2.848s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[2.854s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[2.856s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[2.859s] running build_ext
+[2.861s] Creating /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[2.864s] Installing test_node script to /home/danivm/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[2.865s] 
+[2.866s] Installed /home/danivm/ros2_ws/build/my_robot_controller
+[2.866s] running symlink_data
+[2.866s] symbolically linking /home/danivm/ros2_ws/build/my_robot_controller/resource/my_robot_controller -> /home/danivm/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[2.867s] symbolically linking /home/danivm/ros2_ws/build/my_robot_controller/package.xml -> /home/danivm/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[2.947s] Invoked command in '/home/danivm/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/danivm/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/danivm/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force

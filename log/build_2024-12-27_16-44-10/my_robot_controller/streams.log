@@ -1,0 +1,44 @@
+[4.090s] Invoking command in '/home/danivm/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/danivm/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/danivm/ros2_ws/build/my_robot_controller/build
+[6.255s] running develop
+[7.630s] Removing /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[7.860s] Invoked command in '/home/danivm/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/danivm/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/danivm/ros2_ws/build/my_robot_controller/build
+[7.870s] Invoking command in '/home/danivm/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/danivm/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/danivm/ros2_ws/build/my_robot_controller/build install --record /home/danivm/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data --force
+[9.815s] running egg_info
+[9.822s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[9.829s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[9.831s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[9.834s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[9.835s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[9.898s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[9.921s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[9.930s] running build
+[9.939s] running build_py
+[9.939s] copying my_robot_controller/my_first_node.py -> /home/danivm/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[9.939s] copying my_robot_controller/turtle_controller.py -> /home/danivm/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[9.946s] copying my_robot_controller/draw_circle.py -> /home/danivm/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[9.948s] copying my_robot_controller/pose_subscriber.py -> /home/danivm/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[9.953s] running install
+[9.957s] running install_lib
+[9.965s] creating /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[9.965s] copying /home/danivm/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py -> /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[9.968s] copying /home/danivm/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/turtle_controller.py -> /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[9.968s] copying /home/danivm/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[9.969s] copying /home/danivm/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/draw_circle.py -> /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[9.972s] copying /home/danivm/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/pose_subscriber.py -> /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[9.986s] byte-compiling /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/my_first_node.py to my_first_node.cpython-310.pyc
+[9.990s] byte-compiling /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/turtle_controller.py to turtle_controller.cpython-310.pyc
+[9.999s] byte-compiling /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[10.000s] byte-compiling /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/draw_circle.py to draw_circle.cpython-310.pyc
+[10.004s] byte-compiling /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/pose_subscriber.py to pose_subscriber.cpython-310.pyc
+[10.007s] running install_data
+[10.009s] copying resource/my_robot_controller -> /home/danivm/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[10.011s] copying package.xml -> /home/danivm/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[10.016s] running install_egg_info
+[10.031s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[10.049s] running install_scripts
+[10.250s] Installing draw_circle script to /home/danivm/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[10.255s] Installing pose_subscriber script to /home/danivm/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[10.256s] Installing test_node script to /home/danivm/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[10.270s] Installing turtle_controller script to /home/danivm/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[10.276s] writing list of installed files to '/home/danivm/ros2_ws/build/my_robot_controller/install.log'
+[10.448s] Invoked command in '/home/danivm/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/danivm/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/danivm/ros2_ws/build/my_robot_controller/build install --record /home/danivm/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data --force

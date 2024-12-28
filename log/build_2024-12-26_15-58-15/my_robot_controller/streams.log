@@ -1,0 +1,18 @@
+[2.084s] Invoking command in '/home/danivm/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/danivm/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/danivm/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[3.011s] running develop
+[3.585s] running egg_info
+[3.586s] writing my_robot_controller.egg-info/PKG-INFO
+[3.586s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[3.587s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[3.589s] writing requirements to my_robot_controller.egg-info/requires.txt
+[3.590s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[3.599s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[3.602s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[3.610s] running build_ext
+[3.610s] Creating /home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[3.613s] Installing draw_circle script to /home/danivm/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[3.614s] Installing test_node script to /home/danivm/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[3.615s] 
+[3.615s] Installed /home/danivm/ros2_ws/build/my_robot_controller
+[3.615s] running symlink_data
+[3.715s] Invoked command in '/home/danivm/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/danivm/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danivm/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/danivm/ros2_ws/build/my_robot_controller/build --no-deps symlink_data

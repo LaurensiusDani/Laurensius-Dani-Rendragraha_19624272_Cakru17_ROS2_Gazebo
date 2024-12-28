@@ -1,0 +1,26 @@
+[1.567s] Invoking command in '/home/danivm/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/home/danivm/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/danivm/ros2_ws/build/my_robot_description -- -j2 -l2
+[1.836s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.235s] -- Configuring done
+[3.263s] -- Generating done
+[3.311s] -- Build files have been written to: /home/danivm/ros2_ws/build/my_robot_description
+[3.531s] Invoked command in '/home/danivm/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/home/danivm/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/danivm/ros2_ws/build/my_robot_description -- -j2 -l2
+[3.638s] Invoking command in '/home/danivm/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/home/danivm/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/danivm/ros2_ws/build/my_robot_description
+[3.725s] -- Install configuration: ""
+[3.728s] -- Installing: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description//urdf
+[3.729s] -- Installing: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf
+[3.729s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[3.730s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[3.730s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[3.734s] -- Installing: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[3.735s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[3.735s] -- Installing: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[3.739s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[3.739s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[3.742s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[3.745s] -- Installing: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[3.748s] -- Installing: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[3.753s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[3.763s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[3.763s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[3.764s] -- Up-to-date: /home/danivm/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml
+[3.788s] Invoked command in '/home/danivm/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/home/danivm/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/danivm/ros2_ws/build/my_robot_description
